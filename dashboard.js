@@ -1,10 +1,10 @@
 // Dashboard JavaScript with full admin functionality
 const currentUser = {
   id: 1,
-  name: "John Doe",
-  email: "john@example.com",
+  name: "mehmed",
+  email: "mehmed@example.com",
   role: "admin", // admin, user
-  avatar: "https://images.unsplash.com/photo-1472099645785-5658abf4ff4e?w=100&h=100&fit=crop&crop=face",
+  avatar: "https://i.pinimg.com/736x/f2/fb/ab/f2fbabf45d1a6d97280bb77d22d7ada8.jpg",
   joinDate: "2023-01-15",
   preferences: {
     newsletter: true,
@@ -68,8 +68,8 @@ let productsData = [
 let usersData = [
   {
     id: 1,
-    name: "John Doe",
-    email: "john@example.com",
+    name: "mehmed",
+    email: "mehmed@example.com",
     role: "admin",
     status: "active",
     joinDate: "2023-01-15",
@@ -101,7 +101,7 @@ let usersData = [
 const transactionsData = [
   {
     id: "TXN001",
-    user: "John Doe",
+    user: "mehmed",
     amount: 598,
     status: "completed",
     date: "2024-01-15",
