@@ -1,7 +1,7 @@
 // Dashboard JavaScript with full admin functionality
 const currentUser = {
   id: 1,
-  name: "mehmed",
+  name: "bima",
   email: "mehmed@example.com",
   role: "admin", // admin, user
   avatar: "https://i.pinimg.com/736x/f2/fb/ab/f2fbabf45d1a6d97280bb77d22d7ada8.jpg",
